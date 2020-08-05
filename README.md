@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/daniel-yap-aeiou/sampleapp?style=flat-square
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/daniel-yap-aeiou/sampleapp.svg?style=flat-square
 [contributors-url]: https://github.com/daniel-yap-aeiou/sampleapp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/daniel-yap-aeiou/sampleapp?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/daniel-yap-aeiou/sampleapp.svg?style=flat-square
 [forks-url]: https://github.com/daniel-yap-aeiou/sampleapp/network/members
-[stars-shield]: https://img.shields.io/github/stars/daniel-yap-aeiou/sampleapp?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/daniel-yap-aeiou/sampleapp.svg?style=flat-square
 [stars-url]: https://github.com/daniel-yap-aeiou/sampleapp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sampleapp/sampleapp?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/sampleapp/sampleapp.svg?style=flat-square
 [issues-url]: https://github.com/daniel-yap-aeiou/sampleapp/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/daniel-yap-aeiou
