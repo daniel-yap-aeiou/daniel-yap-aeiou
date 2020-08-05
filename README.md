@@ -23,23 +23,19 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Sample React Project</h3>
 
   <p align="center">
     I have been working on 
     <br />
-    <a href="https://github.com/daniel-yap-aeiou/sampleapp"><strong>Sample React Project</strong></a>
+    <a href="https://github.com/daniel-yap-aeiou/sampleapp" target="_blank"><strong>Sample React Project</strong></a>
     <br />
     <br />
-    <a href="https://daniel-yap-aeiou.github.io/sampleapp/">View Demo</a>
+    <a href="https://daniel-yap-aeiou.github.io/sampleapp/" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues">Report Bug</a>
+    <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues">Request Feature</a>
+    <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues" target="_blank">Request Feature</a>
   </p>
 </p>
 
