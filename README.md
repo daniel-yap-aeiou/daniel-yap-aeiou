@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-  <h3 align="center">Sample React Project</h3>
+
+ <a href="https://github.com/daniel-yap-aeiou/sampleapp">
+    <img src="https://github.com/daniel-yap-aeiou/sampleapp/blob/master/static/media/logo.5d5d9eef.svg" alt="Logo" width="80" height="80">
+  </a>
+  
+<h3 align="center">Sample React Project</h3>
 
   <p align="center">
     I have been working on 
