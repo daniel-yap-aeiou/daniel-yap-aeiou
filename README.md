@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [stars-url]: https://github.com/daniel-yap-aeiou/sampleapp/stargazers
 [issues-shield]: https://img.shields.io/github/issues/sampleapp/sampleapp.svg?style=flat-square
 [issues-url]: https://github.com/daniel-yap-aeiou/sampleapp/issues
-[license-shield]: https://img.shields.io/github/license/daniel-yap-aeiou/sampleapp.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/daniel-yap-aeiou/daniel-yap-aeiou.svg?style=flat-square
 [license-url]: https://github.com/daniel-yap-aeiou/daniel-yap-aeiou/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/daniel-yap-aeiou
