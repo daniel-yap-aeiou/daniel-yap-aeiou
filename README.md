@@ -36,6 +36,11 @@ Here are some ideas to get you started:
     <br />
     <a href="https://github.com/daniel-yap-aeiou/sampleapp" target="_blank"><strong>Sample React Project</strong></a>
    </p>
+   <br/>
+   <p align="center">
+     <input type="checkbox" checked="checked" /> test
+   </p>
+   
    <ul>
      <li>simple online shopping cart</li>
      <li>github api</li>
