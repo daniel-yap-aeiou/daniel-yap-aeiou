@@ -37,8 +37,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/daniel-yap-aeiou/sampleapp" target="_blank"><strong>Sample React Project</strong></a>
     <br />
     <br />
-    - [x] simple online shopping cart<br/>
-    - [x] github api
+    * simple online shopping cart<br/>
+    * github api<br/>
     - [x] covid19 api
     - [x] reddit client api
     - [x] weather api
