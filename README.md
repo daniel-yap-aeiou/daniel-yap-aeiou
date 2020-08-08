@@ -46,6 +46,7 @@ Here are some ideas to get you started:
      :heavy_check_mark: moviedb api <br />
      :heavy_check_mark: youtube api <br />
      :heavy_check_mark: sportsdb api <br />
+     :white_check_mark: trivia api <br />
    </p>
    <br />
   <p align="center">
