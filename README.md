@@ -35,8 +35,7 @@ Here are some ideas to get you started:
     I have been working on 
     <br />
     <a href="https://github.com/daniel-yap-aeiou/sampleapp" target="_blank"><strong>Sample React Project</strong></a>
-    <br />
-    <br />
+   </p>
    <ul>
      <li>simple online shopping cart</li>
      <li>github api</li>
@@ -49,6 +48,7 @@ Here are some ideas to get you started:
    </ul> 
     <br />
     <br />
+  <p align="center">
     <a href="https://daniel-yap-aeiou.github.io/sampleapp/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues" target="_blank">Report Bug</a>
