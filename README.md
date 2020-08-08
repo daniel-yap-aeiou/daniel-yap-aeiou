@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    </p>
    <br/>
    <p align="center">
-     <input type="checkbox" checked="checked" /> test
+     <input type="checkbox" checked /> test
    </p>
    
    <ul>
