@@ -37,6 +37,16 @@ Here are some ideas to get you started:
     <a href="https://github.com/daniel-yap-aeiou/sampleapp" target="_blank"><strong>Sample React Project</strong></a>
     <br />
     <br />
+    - [x] simple online shopping cart<br/>
+    - [x] github api
+    - [x] covid19 api
+    - [x] reddit client api
+    - [x] weather api
+    - [x] moviedb api
+    - [x] youtube api
+    - [x] sportsdb api
+    <br />
+    <br />
     <a href="https://daniel-yap-aeiou.github.io/sampleapp/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues" target="_blank">Report Bug</a>
