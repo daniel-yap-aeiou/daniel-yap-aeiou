@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    </p>
    <br />
    <p align="center">
-     :heavy_check_mark: simple online shopping cart <br />
+     :heavy_check_mark: theme switcher<br />
      :heavy_check_mark: github api <br />
      :heavy_check_mark: covid19 api <br />
      :heavy_check_mark: reddit client api <br />
