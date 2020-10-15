@@ -56,6 +56,9 @@ Here are some ideas to get you started:
     ·
     <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues" target="_blank">Request Feature</a>
   </p>
+  
+  ![Snapshot](https://github.com/daniel-yap-aeiou/sampleapp/blob/master/React%20App%20-%20Google%20Chrome%202020-10-14%2017-29-44.gif)
+
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
