@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
-<p align="center">
+<p align="center" dir="rtl">
 
  <a href="https://github.com/daniel-yap-aeiou/sampleapp">
     <img src="https://github.com/daniel-yap-aeiou/sampleapp/blob/master/static/media/logo.5d5d9eef.svg" alt="Logo" width="80" height="80">
