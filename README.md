@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
-<p align="right" dir="rtl">
+<p align="left" dir="ltr">
 
  <a href="https://github.com/daniel-yap-aeiou/sampleapp">
     <img src="https://github.com/daniel-yap-aeiou/sampleapp/blob/master/static/media/logo.5d5d9eef.svg" alt="Logo" width="80" height="80">
   </a>
   
-<h3 align="right">Sample React Project</h3>
+<h3 align="left">Sample React Project</h3>
 
-  <p align="right">
+  <p align="left">
     I have been working on 
     <br />
     <a href="https://github.com/daniel-yap-aeiou/sampleapp" target="_blank"><strong>Sample React Project</strong></a>
    </p>
    <br />
-   <p align="right">
+   <p align="left">
      :heavy_check_mark: theme switcher<br />
      :heavy_check_mark: github api <br />
      :heavy_check_mark: covid19 api <br />
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
      ⬜️ trivia api <br />
    </p>
    <br />
-  <p align="right">
+  <p align="left">
     <a href="https://github.com/daniel-yap-aeiou/my-react-app/" target="_blank">Source Code</a>
     ·
     <a href="https://daniel-yap-aeiou.github.io/sampleapp/" target="_blank">View Demo</a>
