@@ -50,8 +50,6 @@ Here are some ideas to get you started:
    </p>
    <br />
   <p align="left">
-    <a href="https://github.com/daniel-yap-aeiou/my-react-app/" target="_blank">Source Code</a>
-    ·
     <a href="https://daniel-yap-aeiou.github.io/sampleapp/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/daniel-yap-aeiou/sampleapp/issues" target="_blank">Report Bug</a>
